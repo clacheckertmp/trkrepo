@@ -1,4 +1,4 @@
 # trkrepo
 tracking repo
 
-Checking CLA checker bot. clabot.
+Checking CLA checker update 2.
