@@ -1,4 +1,4 @@
 # trkrepo
 tracking repo
 
-Checking CLA demo 23.
+Checking CLA demo 24.
